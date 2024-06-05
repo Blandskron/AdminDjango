@@ -1,0 +1,2 @@
+# AdminDjango
+Proyecto educativo
